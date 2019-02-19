@@ -1,4 +1,4 @@
-package com.Doram;
+package com.doram.network;
 
 public abstract class Device {
     private int age;

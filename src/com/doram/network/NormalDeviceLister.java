@@ -1,6 +1,4 @@
-package com.Doram;
-
-import java.util.List;
+package com.doram.network;
 
 public interface NormalDeviceLister {
     int getCollectedNormalDevices(int min, int max);

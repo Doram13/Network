@@ -1,4 +1,4 @@
-package com.Doram;
+package com.doram.network;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.Doram;
+package com.doram.network;
 
 public class Normal extends WithScreen {
     private int manufactured;

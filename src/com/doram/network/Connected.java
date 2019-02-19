@@ -1,7 +1,4 @@
-package com.Doram;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.doram.network;
 
 public class Connected extends Device {
 

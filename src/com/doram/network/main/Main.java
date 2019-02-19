@@ -1,6 +1,6 @@
-package com.Doram.Main;
+package com.doram.network.main;
 
-import com.Doram.*;
+import com.doram.network.*;
 
 public class Main {
 
